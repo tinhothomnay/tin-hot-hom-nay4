@@ -1,0 +1,24 @@
+{
+  "1": {
+    "title": "Tin số 1",
+    "content": "Nội dung tin số 1",
+    "images": [
+      "media/anh1.png",
+      "media/anh2.png"
+    ],
+    "videos": [
+      "media/vd1.mp4"
+    ]
+  },
+
+  "2": {
+    "title": "Tin số 2",
+    "content": "Nội dung tin số 2",
+    "images": [
+      "media/anh3.png"
+    ],
+    "videos": [
+      "media/vd2.mp4"
+    ]
+  }
+}

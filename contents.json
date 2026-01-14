@@ -17,13 +17,16 @@
       "media/vd2.mp4"
     ]
   },
-    "3": {
+
+  "3": {
     "title": "Tin Hóng Hót",
-    "content": "Chịu luôn Nghe nói đây là trường hợp học sinh của trường nào đó chưa được xác thực",
+    "content": "Chịu luôn nghe nói đây là trường hợp học sinh của trường nào đó chưa được xác thực",
     "images": [
-      "media/a3.png"
+      "media/a1.png"
     ],
     "videos": [
       "media/vd3.mp4",
       "media/vd3-1.mp4"
+    ]
+  }
 }

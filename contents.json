@@ -28,5 +28,12 @@
       "media/vd3.mp4",
       "media/vd3-1.mp4"
     ]
-  }
+  },
+    "4": {
+    "title": "Tin Hóng Hót",
+    "content": "Cân nhắc trc khj xem..⚡thế này thì còn gì là 🦋 nữa ",
+    "videos": [
+      "media/vd4.mp4"
+    ]
+    }
 }
